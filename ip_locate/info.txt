@@ -1,0 +1,7 @@
+esse servico roda via terminal, utilizando uma api de terceiros gratuita que fornece dados sobre um IP
+Use com responsabilidad
+
+Como usar?
+
+copie o codigo e rode com > python ip_locate.py 
+ou baixe o repositorio, entre com cd > ip_locate e execute o arquivo .bat

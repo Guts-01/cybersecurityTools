@@ -1,0 +1,1 @@
+essa aplicacao serve para listar alguns arquivos de texto e criptografar em uma maquina, e cria uma chave para descriptografar
